@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Arduino, Neural Networks**
 
-- 💬 Ask me about **Python, C++**
+- 💬 Ask me about **Python, C++, Java**
 
 - 📫 How to reach me **ashfaqsadat2008@gmail.com**
 
