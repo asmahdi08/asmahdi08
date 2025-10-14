@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Sadat</h1>
 <h3 align="center">A passionate student programmer</h3>
 
-- 🌱 I’m currently learning **Arduino, Neural Networks**
+- 🌱 I’m currently learning **Computer Vision, Natural Language Processing**
 
-- 💬 Ask me about **Python, C++, Java**
+- 💬 Ask me about **Python, C++, Java, AI, Machine learning**
 
 - 📫 How to reach me **ashfaqsadat2008@gmail.com**
 
