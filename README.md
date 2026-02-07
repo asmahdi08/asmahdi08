@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Sadat</h1>
-<h3 align="center">A passionate student programmer</h3>
+<h3 align="center">A passionate programmer and Web Developer</h3>
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing**
 
-- 💬 Ask me about **Python, C++, Java, AI, Machine learning**
+- 💬 Ask me about **Web Development, Python, C++, Java, AI, Machine learning**
 
 - 📫 How to reach me **ashfaqsadat2008@gmail.com**
 
